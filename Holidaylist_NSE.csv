@@ -1,0 +1,185 @@
+Market Segment,Date,Day,Description
+CM,2007-01-01,Monday,Bakri ID
+CM,2007-01-26,Friday,Republic Day
+CM,2007-01-30,Tuesday,Moharram
+CM,2007-02-16,Friday,Mahashivratri
+CM,2007-03-27,Tuesday,Ram Navami
+CM,2007-04-06,Friday,Good Friday
+CM,2007-05-01,Tuesday,Maharashtra Day
+CM,2007-05-02,Wednesday,Buddha Pournima
+CM,2007-08-15,Wednesday,Independence Day
+CM,2007-10-02,Tuesday,Gandhi Jayanti
+CM,2007-12-21,Friday,Bakri ID (falls twice in 2007)
+CM,2007-12-25,Tuesday,Christmas
+CM,2008-03-06,Thursday,Mahashivratri
+CM,2008-03-20,Thursday,Id-E-Milad
+CM,2008-03-21,Friday,Good Friday
+CM,2008-04-14,Monday,Dr. Babasaheb Ambedkar Jayanti
+CM,2008-04-18,Friday,Mahavir Jayanti
+CM,2008-05-01,Thursday,Maharashtra Day
+CM,2008-05-19,Monday,Buddha Pournima
+CM,2008-08-15,Friday,Independence Day
+CM,2008-09-03,Wednesday,Ganesh Chaturthi
+CM,2008-10-02,Thursday,Gandhi Jayanti / Ramzan ID
+CM,2008-10-09,Thursday,Dasara
+CM,2008-10-30,Thursday,Bhau Bhij
+CM,2008-11-13,Thursday,Gurunanak Jayanti
+CM,2008-12-09,Tuesday,Bakri ID
+CM,2008-12-25,Thursday,Christmas
+CM,2009-01-08,Thursday,Moharram
+CM,2009-01-26,Monday,Republic Day
+CM,2009-02-23,Monday,Mahashivratri
+CM,2009-03-10,Tuesday,Id e Milad
+CM,2009-03-11,Wednesday,Holi
+CM,2009-04-03,Friday,Ram Navmi
+CM,2009-04-07,Tuesday,Mahavir Jayanti
+CM,2009-04-10,Friday,Good Friday
+CM,2009-04-14,Tuesday,Dr. Ambedkar Jayanti
+CM,2009-05-01,Friday,Maharashtra Day
+CM,2009-09-21,Monday,Ramzan ID
+CM,2009-09-28,Monday,Dasara
+CM,2009-10-02,Friday,Gandhi Jayanti
+CM,2009-10-19,Monday,Bhau Bhij
+CM,2009-11-02,Monday,Gurunanak Jayanti
+CM,2009-12-25,Friday,Christmas
+CM,2009-12-28,Monday,Moharram (falls twice in 2009)
+CM,2010-01-01,Friday,New Year
+CM,2010-01-26,Tuesday,Republic Day
+CM,2010-02-12,Friday,Mahashivratri
+CM,2010-03-01,Monday,Holi
+CM,2010-03-24,Wednesday,Ram Navmi
+CM,2010-04-02,Friday,Good Friday
+CM,2010-04-14,Wednesday,Dr. Ambedkar Jayanti
+CM,2010-09-10,Friday,Ramzan ID
+CM,2010-11-17,Wednesday,Bakri Id
+CM,2010-12-17,Friday,Moharram 
+CM,2011-01-26,Wednesday,Republic Day
+CM,2011-03-02,Wednesday,Mahashivratri
+CM,2011-04-12,Tuesday,Ram Navmi
+CM,2011-04-14,Thursday,Dr. Babasaheb Ambedkar Jayanti
+CM,2011-04-22,Friday,Good Friday
+CM,2011-08-15,Monday,Independence Day
+CM,2011-08-31,Wednesday,Ramzan ID
+CM,2011-09-01,Thursday,Ganesh Chaturthi
+CM,2011-10-06,Thursday,Dussera
+CM,2011-10-27,Thursday,Diwali (Balipratipada)
+CM,2011-11-07,Monday,Bakri Id
+CM,2011-11-10,Thursday,Gurunanak Jayanti
+CM,2011-12-06,Tuesday,Moharram
+CM,2012-01-26,Thursday,Republic Day
+CM,2012-02-20,Monday,Mahashivratri
+CM,2012-03-08,Thursday,Holi
+CM,2012-04-05,Thursday,Mahavir Jayanti
+CM,2012-04-06,Friday,Good Friday
+CM,2012-05-01,Tuesday,May Day
+CM,2012-08-15,Wednesday,Independence Day
+CM,2012-08-20,Monday,Ramzan Id
+CM,2012-09-19,Wednesday,Ganesh Chaturthi
+CM,2012-10-02,Tuesday,Gandhi Jayanti
+CM,2012-10-24,Wednesday,Dasara
+CM,2012-11-14,Wednesday,Diwali-Balipratipada
+CM,2012-11-28,Wednesday,Gurunanak Jayanti
+CM,2012-12-25,Tuesday,Christmas
+CM,2013-03-27,Wednesday,Holi
+CM,2013-03-29,Friday,Good Friday
+CM,2013-04-19,Friday,Ram Navmi
+CM,2013-04-24,Wednesday,Mahavir Jayanti
+CM,2013-05-01,Wednesday,May Day
+CM,2013-08-09,Friday,Ramzan ID
+CM,2013-08-15,Thursday,Independence Day
+CM,2013-09-09,Monday,Ganesh Chaturthi
+CM,2013-10-02,Wednesday,Gandhi Jayanti
+CM,2013-10-16,Wednesday,Bakri ID
+CM,2013-11-04,Monday,Diwali-Balipratipada
+CM,2013-11-15,Friday,Moharram
+CM,2013-12-25,Wednesday,Christmas
+CM,2014-02-27,Thursday,Mahashivratri
+CM,2014-03-17,Monday,Holi
+CM,2014-04-08,Tuesday,Ram Navmi
+CM,2014-04-14,Monday,Dr. Babasaheb Ambedkar Jayanti
+CM,2014-04-18,Friday,Good Friday
+CM,2014-04-24,Thursday,Parlimentary Elections
+CM,2014-05-01,Thursday,May Day
+CM,2014-07-29,Tuesday,Ramzan ID
+CM,2014-08-15,Friday,Independence Day
+CM,2014-08-29,Friday,Ganesh Chaturthi
+CM,2014-10-02,Thursday,Mahatma Gandhi Jayanti
+CM,2014-10-03,Friday,Dasera
+CM,2014-10-06,Monday,Bakri ID
+CM,2014-10-15,Wednesday,General Assembly Elections
+CM,2014-10-24,Friday,Diwali-Balipratipada
+CM,2014-11-04,Tuesday,Moharram
+CM,2014-11-06,Thursday,Gurunank Jayanti
+CM,2014-12-25,Thursday,Christmas
+CM,2015-01-26,Monday,Republic Day
+CM,2015-02-17,Tuesday,Mahashivratri
+CM,2015-03-06,Friday,Holi
+CM,2015-04-02,Thursday,Mahavir Jayanti
+CM,2015-04-03,Friday,Good Friday
+CM,2015-04-14,Tuesday,Dr. Baba Saheb Ambedkar Jayanti
+CM,2015-05-01,Friday,Maharashtra Day
+CM,2015-09-17,Thursday,Ganesh Chaturthi
+CM,2015-09-25,Friday,Bakri ID
+CM,2015-10-02,Friday,Mahatma Gandhi Jayanti
+CM,2015-10-22,Thursday,Dussehra
+CM,2015-11-12,Thursday,Diwali-Balipratipada
+CM,2015-11-25,Wednesday,Gurunanak Jayanti
+CM,2015-12-25,Friday,Christmas
+CM,2016-01-26,Tuesday,Republic Day
+CM,2016-03-07,Monday,Mahashivratri
+CM,2016-03-24,Thursday,Holi
+CM,2016-03-25,Friday,Good Friday
+CM,2016-04-14,Thursday,Dr. Baba Saheb Ambedkar Jayanti
+CM,2016-04-15,Friday,Ram Navami
+CM,2016-04-19,Tuesday,Mahavir Jayanti
+CM,2016-07-06,Wednesday,Id-uI-Fitar (Ramzan ID)
+CM,2016-08-15,Monday,Independence Day
+CM,2016-09-05,Monday,Ganesh Chaturthi
+CM,2016-09-13,Tuesday,Bakri ID
+CM,2016-10-11,Tuesday,Dasera
+CM,2016-10-12,Wednesday,Moharram
+CM,2016-10-31,Monday,Diwali-Balipratipada
+CM,2016-11-14,Monday,Gurunanak Jayanti
+CM,2017-01-26,Thursday,Republic Day
+CM,2017-02-24,Friday,Mahashivratri
+CM,2017-03-13,Monday,Holi
+CM,2017-04-04,Tuesday,Ram Navami
+CM,2017-04-14,Friday,Dr.Baba Saheb Ambedkar Jayanti/ Good Friday
+CM,2017-05-01,Monday,Maharashtra Day
+CM,2017-06-26,Monday,Id-Ul-Fitr (Ramzan ID)
+CM,2017-08-15,Tuesday,Independence Day
+CM,2017-08-25,Friday,Ganesh Chaturthi
+CM,2017-10-02,Monday,Mahatama Gandhi Jayanti
+CM,2017-10-20,Friday,Diwali-Balipratipada
+CM,2017-12-25,Monday,Christmas
+CM,2018-01-26,Friday,Republic Day
+CM,2018-02-13,Tuesday,Mahashivratri
+CM,2018-03-02,Friday,Holi
+CM,2018-03-29,Thursday,Mahavir Jayanti
+CM,2018-03-30,Friday,Good Friday
+CM,2018-05-01,Tuesday,Maharashtra Day
+CM,2018-08-15,Wednesday,Independence Day
+CM,2018-08-22,Wednesday,Bakri ID
+CM,2018-09-13,Thursday,Ganesh Chaturthi
+CM,2018-09-20,Thursday,Moharram
+CM,2018-10-02,Tuesday,Mahatama Gandhi Jayanti
+CM,2018-10-18,Thursday,Dasera
+CM,2018-11-07,Wednesday,Diwali-Laxmi Pujan*
+CM,2018-11-08,Thursday,Diwali-Balipratipada
+CM,2018-11-23,Friday,Gurunanak Jayanti
+CM,2018-12-25,Tuesday,Christmas
+CM,2019-03-04,Monday,Mahashivratri
+CM,2019-03-21,Thursday,Holi
+CM,2019-04-17,Wednesday,Mahavir Jayanti
+CM,2019-04-19,Friday,Good Friday
+CM,2019-05-01,Wednesday,Maharashtra Day
+CM,2019-06-05,Wednesday,Id-Ul-Fitr (Ramzan ID)
+CM,2019-08-12,Monday,Bakri Id
+CM,2019-08-15,Thursday,Independence Day
+CM,2019-09-02,Monday,Ganesh Chaturthi
+CM,2019-09-10,Tuesday,Moharram
+CM,2019-10-02,Wednesday,Mahatma Gandhi Jayanti
+CM,2019-10-08,Tuesday,Dasera
+CM,2019-10-28,Monday,Diwali-Balipratipada
+CM,2019-11-12,Tuesday,Gurunanak Jayanti
+CM,2019-12-25,Wednesday,Christmas
