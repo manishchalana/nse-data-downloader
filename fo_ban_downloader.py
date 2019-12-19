@@ -1,4 +1,8 @@
 import requests, os, datetime, zipfile, io, pandas as pd
+import cProfile
+
+pr = cProfile.Profile()
+pr.enable()
 
 ''' 
 
@@ -15,7 +19,7 @@ Please see below block to check user input variables.
 
 ############################# User inputs here ###################################
 # Enter the date for download in 'ddmmyyyy' format
-date = '11122017'
+date = '12122019'
 
 # Enter the path for output
 outputLink = r'D:\Work\NSEDownloader\Output'
@@ -77,3 +81,5 @@ r = requests.get(derivFileLink, stream=True)
 zip = zipfile.ZipFile(io.BytesIO(r.content))
 zip.extractall(path=outputLink)
 
+pr.disable()
+pr.print_stats(sort='calls')
